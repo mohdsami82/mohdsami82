@@ -1,8 +1,4 @@
-<h1 align="center">Hi, I'm Mohd Sami 👋</h1>
-<p align="center"><strong>Robotics & AI undergraduate at Lovely Professional University</strong></p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=480&lines=Building+real-world+hardware;Exploring+mechanical+design+with+Creo" alt="Building real-world hardware and exploring mechanical design with Creo" />
-</p>
+<img src="assets/student-profile.gif" width="100%" alt="Mohd Sami — Robotics &amp; AI, hardware design and fabrication. Animated student profile card, Lovely Professional University." />
 
 ## About me
 
