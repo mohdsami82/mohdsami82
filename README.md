@@ -1,14 +1,14 @@
-<img src="assets/sami-hero.gif" width="100%" alt="Mohd Sami, AI and Robotics student focused on hardware design and fabrication." />
+<img src="assets/sami-hero.gif?v=cerm-bot" width="100%" alt="Mohd Sami, AI and Robotics student focused on hardware design and fabrication." />
 
-<img src="assets/sami-record.gif" width="100%" alt="Animated student ID for Mohd Sami. AI and Robotics, B.Tech CSE, Lovely Professional University." />
+<img src="assets/sami-record.gif?v=cerm-bot" width="100%" alt="Animated student ID for Mohd Sami. AI and Robotics, B.Tech CSE, Lovely Professional University." />
 
 ## About me
 
 I'm a first-year B.Tech Computer Science and Engineering student specializing in Robotics and AI at LPU. What I enjoy most about hardware is taking a design off the screen and figuring out how to build it. I'm especially interested in mechanical design and fabrication.
 
-## Featured build · CERM Boot Car
+## Featured build · CERM Bot
 
-Working on the CERM Boot Car was one of my favourite hands-on experiences. It made me want to spend more time designing parts and building hardware I can test myself.
+CERM Bot is a robot car that detects obstacles. Working on it was one of my favourite hands-on experiences. It made me want to spend more time designing parts and building hardware I can test myself.
 
 ## My toolkit
 
