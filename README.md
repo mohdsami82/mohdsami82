@@ -1,6 +1,6 @@
-<img src="assets/sami-hero.gif?v=cerm-bot" width="100%" alt="Mohd Sami, AI and Robotics student focused on hardware design and fabrication." />
+<img src="assets/cerm-bot-profile-intro.gif" width="100%" alt="Mohd Sami, AI and Robotics student focused on hardware design and fabrication." />
 
-<img src="assets/sami-record.gif?v=cerm-bot" width="100%" alt="Animated student ID for Mohd Sami. AI and Robotics, B.Tech CSE, Lovely Professional University." />
+<img src="assets/cerm-bot-student-record.gif" width="100%" alt="Animated student ID for Mohd Sami. AI and Robotics, B.Tech CSE, Lovely Professional University." />
 
 ## About me
 
