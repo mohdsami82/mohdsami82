@@ -1,4 +1,4 @@
-<img src="assets/student-profile.gif" width="100%" alt="Mohd Sami — Robotics &amp; AI, hardware design and fabrication. Animated student profile card, Lovely Professional University." />
+<img src="assets/ai-and-robotics-id.gif" width="100%" alt="Mohd Sami — AI and Robotics, hardware design and fabrication. Animated student profile card, Lovely Professional University." />
 
 ## About me
 
